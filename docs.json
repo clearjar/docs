@@ -15,11 +15,7 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": [
-              "introduction",
-              "quickstart",
-              "development"
-            ]
+            "pages": ["introduction", "quickstart", "development"]
           },
           {
             "group": "Essentials",
@@ -35,13 +31,11 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "API Reference(s)",
         "groups": [
           {
             "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
+            "pages": ["api-reference/introduction"]
           },
           {
             "group": "Endpoint Examples",
